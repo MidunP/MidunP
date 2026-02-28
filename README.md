@@ -11,11 +11,9 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-💻 Aspiring Software Development Engineer
-
-    ⚙️ Building scalable systems, optimizing logic, and solving real-world problems
-    
-📊 Data enthusiast turning raw data into meaningful insights
+ 💻 Aspiring Software Development Engineer
+ ⚙️ Building scalable systems, optimizing logic, and solving real-world problems
+ 📊 Data enthusiast turning raw data into meaningful insights
   </p>
 
   <p>
