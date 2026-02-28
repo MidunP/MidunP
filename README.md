@@ -12,7 +12,9 @@
 
   <p>
 💻 Aspiring Software Development Engineer
-⚙️ Building scalable systems, optimizing logic, and solving real-world problems
+
+    ⚙️ Building scalable systems, optimizing logic, and solving real-world problems
+    
 📊 Data enthusiast turning raw data into meaningful insights
   </p>
 
@@ -24,11 +26,7 @@
   </p>
 
 <h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://dev.to/midhunP">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
+
 
 
 
